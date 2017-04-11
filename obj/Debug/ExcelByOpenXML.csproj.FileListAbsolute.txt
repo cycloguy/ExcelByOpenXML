@@ -1,0 +1,7 @@
+c:\users\vdev100\documents\visual studio 2015\Projects\ExcelByOpenXML\ExcelByOpenXML\bin\Debug\ExcelByOpenXML.exe.config
+c:\users\vdev100\documents\visual studio 2015\Projects\ExcelByOpenXML\ExcelByOpenXML\bin\Debug\ExcelByOpenXML.exe
+c:\users\vdev100\documents\visual studio 2015\Projects\ExcelByOpenXML\ExcelByOpenXML\bin\Debug\ExcelByOpenXML.pdb
+c:\users\vdev100\documents\visual studio 2015\Projects\ExcelByOpenXML\ExcelByOpenXML\bin\Debug\DocumentFormat.OpenXml.dll
+c:\users\vdev100\documents\visual studio 2015\Projects\ExcelByOpenXML\ExcelByOpenXML\obj\Debug\ExcelByOpenXML.csprojResolveAssemblyReference.cache
+c:\users\vdev100\documents\visual studio 2015\Projects\ExcelByOpenXML\ExcelByOpenXML\obj\Debug\ExcelByOpenXML.exe
+c:\users\vdev100\documents\visual studio 2015\Projects\ExcelByOpenXML\ExcelByOpenXML\obj\Debug\ExcelByOpenXML.pdb
